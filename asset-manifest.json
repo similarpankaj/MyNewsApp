@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/similarpankaj/MyNewsApp/static/css/main.abd64e84.css",
+    "main.js": "/similarpankaj/MyNewsApp/static/js/main.2daf93cd.js",
+    "static/js/787.4c026eef.chunk.js": "/similarpankaj/MyNewsApp/static/js/787.4c026eef.chunk.js",
+    "index.html": "/similarpankaj/MyNewsApp/index.html",
+    "main.abd64e84.css.map": "/similarpankaj/MyNewsApp/static/css/main.abd64e84.css.map",
+    "main.2daf93cd.js.map": "/similarpankaj/MyNewsApp/static/js/main.2daf93cd.js.map",
+    "787.4c026eef.chunk.js.map": "/similarpankaj/MyNewsApp/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2daf93cd.js"
+  ]
+}
